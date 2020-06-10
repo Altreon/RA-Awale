@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<VuforiaUnityInfo>
+    <TargetSet toolVersion="" version="6.0"><VuMark name="GrenierTest" previewImage="92039866cedb4c5b8ec044a590ece282_preview.png" targetId="92039866cedb4c5b8ec044a590ece282" version="9.0">
+            <Shape bbox2D="0 0 133.333 150" origin="66.672 113.724" />
+            <Code IDlength="4" IDtype="string" />
+        </VuMark>
+    </TargetSet>
+</VuforiaUnityInfo>
